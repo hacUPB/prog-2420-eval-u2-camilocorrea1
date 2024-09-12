@@ -54,7 +54,7 @@ def main():
     print(f"Nombre: {nombre_completo}")
     print(f"Origen: {Origen}")
     print(f"Destino: {Destino}")
-    print(f"Fecha de vuelo: {Dia_de_la_semana}{Dia_del_mes}")
+    print(f"Fecha de vuelo: {Dia_de_la_semana} {Dia_del_mes}")
     print(f"Precio del boleto: ${Precio}")
     print(f"Asiento asignado: {silla_asignada}")
 
